@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>faviconf.ico [wiki.sys-adm.org.ua]</title>
+    <script type="text/javascript" charset="utf-8" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/lib/tpl/alex-hha/highlight.pack.js"></script>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="noindex,follow"/>
+<meta name="keywords" content="faviconf.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title="wiki.sys-adm.org.ua"/>
+<link rel="start" href="/"/>
+<link rel="alternate" type="application/rss+xml" title="Недавние изменения" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Текущее пространство имён" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Простой HTML" href="/_export/xhtml/faviconf.ico"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=alex-hha&amp;tseed=ddeeb5881d0a37dd3cdee855b9fd7757"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"faviconf.ico","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?t=alex-hha&amp;tseed=ddeeb5881d0a37dd3cdee855b9fd7757"></script>
+<script type="text/javascript" charset="utf-8">/*<![CDATA[*/jQuery(function(){
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1472422244 193.243.156.38';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+/*!]]>*/</script>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/alex-hha/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/alex-hha/images/apple-touch-icon.png" />
+        <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-68530001-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <link rel="stylesheet" href="/lib/tpl/alex-hha/css/rainbow.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script>
+        $(document).ready(function() { $('pre.hl_js').each(function(i, block) { hljs.highlightBlock(block); }); });
+    </script>
+    <style>@import url(http://storage.sys-adm.org.ua/fonts/test.css);</style>
+</head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_alex-hha  notFound   ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">Перейти к содержанию</a></li>
+        </ul>
+
+        <h1><a href="/start"  accesskey="h" title="[H]"><img src="/lib/tpl/alex-hha/images/logo.png" width="64" height="64" alt="" /> <span>wiki.sys-adm.org.ua</span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">Инструменты пользователя</h3>
+                <ul>
+                    <li><a href="/faviconf.ico?do=login&amp;sectok=bc49bf74da1152e587cef9a9bfb9e787"  class="action login" rel="nofollow" title="Войти">Войти</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Инструменты сайта</h3>
+            <form action="/start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" placeholder="Поиск" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><button type="submit" title="Поиск">Поиск</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="faviconf.ico" /><select name="do" class="edit quickselect" title="Инструменты"><option value="">Инструменты</option><optgroup label="Инструменты страницы"><option value="revisions">История страницы</option><option value="backlink">Ссылки сюда</option></optgroup><optgroup label="Инструменты сайта"><option value="recent">Недавние изменения</option><option value="media">Управление медиафайлами</option></optgroup><optgroup label="Инструменты пользователя"><option value="login">Войти</option></optgroup></select><button type="submit">&gt;</button></div></form>            </div>
+            <ul>
+                <li><a href="/faviconf.ico?do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Недавние изменения [R]">Недавние изменения</a></li><li><a href="/faviconf.ico?do=media&amp;ns="  class="action media" rel="nofollow" title="Управление медиафайлами">Управление медиафайлами</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Вы посетили:</span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>faviconf.ico</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<h1 class="sectionedit1" id="эта_страница_ещё_не_существует">Эта страница ещё не существует</h1>
+<div class="level1">
+
+<p>
+Вы перешли по ссылке на тему, для которой ещё не создана страница. Если позволяют ваши права доступа, вы можете создать её, нажав на кнопку «Создать страницу».
+</p>
+
+</div>
+
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Инструменты страницы</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/faviconf.ico?do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="История страницы [O]"><span>История страницы</span></a></li><li><a href="/faviconf.ico?do=backlink"  class="action backlink" rel="nofollow" title="Ссылки сюда"><span>Ссылки сюда</span></a></li><li><a href="/faviconf.ico?do=export_pdf"  class="action export_pdf" rel="nofollow" title="Экспорт в PDF"><span>Экспорт в PDF</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Наверх [T]"><span>Наверх</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    
+    <div class="buttons">
+                <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/alex-hha/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/alex-hha/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/alex-hha/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/alex-hha/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/alex-hha/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=faviconf.ico&amp;1472422244" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>
