@@ -13,6 +13,6 @@ RUN apk update \
     && sed -i 's/Listen 80/Listen 8888/' /etc/apache2/httpd.conf \
     && echo "PidFile run/httpd.pid" >> /etc/apache2/httpd.conf
 
-COPY vhosts/index.html /var/www/localhost/htdocs/
+COPY vhosts/* /var/www/localhost/htdocs/
 
 ENTRYPOINT ["/usr/sbin/httpd", "-DFOREGROUND"]
